@@ -1,6 +1,6 @@
 Crypto = {
         Lower = 50,
-        Upper = 500,
+        Upper = 250,
     History = {
         ["qbit"] = {}
     },
